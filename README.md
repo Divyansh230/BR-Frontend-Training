@@ -42,5 +42,27 @@ As part of **Day 1 practice**, I created a **simple HTML webpage** using the con
 
 Below is the screenshot of the webpage created during **![alt text](image.png)**:
 
-```md
-![Day 1 HTML Practice](./assets/day1-html-practice.png)
+---
+
+## 📘 Studied Topic: HTML Tables (Day 1)
+
+### 🧠 What I Studied
+Secondly, I studied **HTML Tables** to understand how tabular data is structured and displayed on a webpage.
+
+### 🔹 Concepts Covered
+- `<table>` – Defines the table  
+- `<tr>` – Table row  
+- `<th>` – Table header cell  
+- `<td>` – Table data cell  
+- `border`, `rowspan`, `colspan` (basic understanding)  
+- Proper alignment of rows and columns  
+
+### 🛠️ Practice
+I created a **simple HTML table** to practice:
+- Rows and columns  
+- Header vs data cells  
+- Clean and readable table structure  
+
+### 🖼️ HTML Table Practice Preview
+**![alt text](image-1.png)**
+
