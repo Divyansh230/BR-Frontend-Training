@@ -86,3 +86,19 @@ I created a **simple HTML form** to practice:
 
 ### 🖼️ HTML Form Practice Preview
 **![alt text](image-2.png)**
+
+---
+I also studied **HTML Media Elements** to understand how multimedia content like images, audio, and video can be embedded into a webpage.
+
+### 🔹 Concepts Covered
+- `<img>` – Display images on a webpage  
+- `<audio>` – Embed audio files with controls  
+- `<video>` – Embed video files with controls  
+- `src`, `alt`, `controls`, `autoplay`, `loop` attributes  
+- Importance of accessibility using `alt` text  
+
+### 🛠️ Practice
+I practiced embedding:
+- Images using proper paths and alt text  
+- Audio files with playback controls  
+- Video files with basic controls  
