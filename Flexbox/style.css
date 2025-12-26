@@ -1,0 +1,42 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        background-color: rgb(204, 215, 224);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        box-sizing: border-box;
+    }
+    
+    h1 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: rgb(88, 88, 159);
+    }
+    
+    .box {
+        width: 400px;
+        background-color: white;
+        padding: 60px;
+        border: 10px;
+        ;
+    }
+    
+    label {
+        font-size: 25px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+    
+    input {
+        width: 100%;
+        height: 30px;
+        padding: 10px;
+        font-size: 20px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
