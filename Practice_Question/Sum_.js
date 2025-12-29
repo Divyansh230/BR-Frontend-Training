@@ -1,0 +1,1 @@
+console.log(`Sum of number from to 10 : ${10*(11)/2}`);
