@@ -38,102 +38,176 @@ As part of **Day 1 practice**, I created a **simple HTML webpage** using the con
 
 ---
 
-
-
-
 ## 📘 Studied Topic: HTML Tables (Day 1)
 
 ### 🧠 What I Studied
-Secondly, I studied **HTML Tables** to understand how tabular data is structured and displayed on a webpage.
+I studied **HTML Tables** to understand how tabular data is structured and displayed on a webpage.
 
 ### 🔹 Concepts Covered
 - `<table>` – Defines the table  
 - `<tr>` – Table row  
 - `<th>` – Table header cell  
 - `<td>` – Table data cell  
-- `border`, `rowspan`, `colspan` (basic understanding)  
+- `border`, `rowspan`, `colspan`  
 - Proper alignment of rows and columns  
 
 ### 🛠️ Practice
-I created a **simple HTML table** to practice:
-- Rows and columns  
-- Header vs data cells  
-- Clean and readable table structure  
-
+- Created a simple table  
+- Practiced rows, columns, headers, and data cells  
 
 ---
-I studied **HTML Forms** to understand how user input is collected on a webpage.
+
+## 📘 Studied Topic: HTML Forms
 
 ### 🔹 Concepts Covered
 - `<form>` – Form container  
-- `<input>` – Text, email, password, number inputs  
-- `<label>` – Proper labeling of form fields  
-- `<textarea>` – Multi-line text input  
-- `<select>` & `<option>` – Dropdown menus  
+- `<input>` – Text, email, password, number  
+- `<label>` – Labeling form fields  
+- `<textarea>` – Multi-line input  
+- `<select>` & `<option>` – Dropdown  
 - `<button>` – Submit button  
-- Basic attributes like `type`, `name`, `placeholder`, `required`
+- Attributes like `type`, `name`, `placeholder`, `required`  
 
 ### 🛠️ Practice
-I created a **simple HTML form** to practice:
-- Taking user input  
-- Using different input types  
-- Structuring a clean and readable form  
-
-
+- Created a basic HTML form  
+- Used multiple input types  
+- Structured clean and readable forms  
 
 ---
-I also studied **HTML Media Elements** to understand how multimedia content like images, audio, and video can be embedded into a webpage.
+
+## 📘 Studied Topic: HTML Media Elements
 
 ### 🔹 Concepts Covered
-- `<img>` – Display images on a webpage  
-- `<audio>` – Embed audio files with controls  
-- `<video>` – Embed video files with controls  
-- `src`, `alt`, `controls`, `autoplay`, `loop` attributes  
-- Importance of accessibility using `alt` text  
+- `<img>` – Images  
+- `<audio>` – Audio with controls  
+- `<video>` – Video with controls  
+- `src`, `alt`, `controls`, `autoplay`, `loop`  
+- Importance of accessibility  
 
 ### 🛠️ Practice
-I practiced embedding:
-- Images using proper paths and alt text  
-- Audio files with playback controls  
-- Video files with basic controls  
+- Embedded images with alt text  
+- Added audio and video files  
 
 ---
 
 ## 📅 Day 2 Task: Basics of CSS
 
-I Started Learning **CSS (Cascading Stylesheets)** to understand how to stylize our website. Basically skin of the skeleton created in html
+Started learning **CSS (Cascading Style Sheets)** to style HTML pages and improve UI.
 
 ### 🔹 Concepts Covered
--`<inline>`:How to apply css within inline elements
--`<internal>`:How to apply css by using only <style> tag
--`<external>`:Using external css and making the importance of using it.
--`<Units>`:All the units used in css 
-
-
+- Inline CSS  
+- Internal CSS  
+- External CSS  
+- CSS Units (px, %, rem, em, vh, vw)  
 
 ---
-## 📅 Day 3 Task: CSS Box Model,Positioning of the Elements and Flexbox
 
-Started Learning about box model in which covered the concept of margin,padding,block element and inline-block element.
+## 📅 Day 3 Task: CSS Box Model, Positioning & Flexbox
 
-Secondry Learned about css flexbox model, Specially Parent child property for the alligning of the items
-
-
-### 🖼️ HTML Form Practice Preview
-
-![alt text](image.png)
+### 🧠 Concepts Covered
+- Box Model (margin, padding, border)  
+- Block & inline-block elements  
+- CSS positioning (relative, absolute, fixed)  
+- Flexbox parent-child properties  
 
 
 ---
 
-## 📅 Day 3 Task: CSS Box Model,Positioning of the Elements and Flexbox
+## 📅 Day 3 Task (Continued): CSS Grid & Responsive Design
 
-Studied about CSS Grid and Learned how to Develop modern ui 
-### 🖼️ HTML Form Practice Preview
-![alt text](image-1.png)
+### 🧠 Concepts Covered
+- CSS Grid layout  
+- Modern UI development  
+- Media queries  
+- Box shadows for UI enhancement  
+
+
+---
+
+## 📅 Day 4 Task: Advanced UI Development (Discovery-Style Website)
+
+### 🎯 Objective
+To build a **premium, real-world inspired UI** similar to luxury websites like *Discovery Land Company*.
+
+---
+
+## 🧠 Concepts Learned (Day 4)
+
+- Advanced HTML structure  
+- Layered UI using `z-index`  
+- Full-screen background sections  
+- Flexbox & Grid for complex layouts  
+- CSS animations using `@keyframes`  
+- Hover effects and transitions  
+- Overlay effects  
+- Card-based UI design  
+- Responsive UI techniques  
+- Dynamic rendering using JavaScript  
+
+---
+
+## 🛠️ Practical Implementation (Day 4)
+
+### ✨ Features Implemented
+
+- **Hero Section**
+  - Full-screen image/video background  
+  - Overlay heading  
+  - Fixed navbar with scroll effects  
+
+- **Auto Sliding Gallery**
+  - Images rendered via JavaScript arrays  
+  - Continuous auto-slide using CSS keyframes  
+  - Infinite loop animation  
+  - No external libraries  
+
+- **Lands of Discovery Section**
+  - Earth background image  
+  - Rotating Earth using CSS animation  
+  - Left content with heading and description  
+  - Right-aligned black information card  
+
+- **Dynamic Information Card**
+  - Image on right side of the card  
+  - Arrow-based image switching  
+  - Clean typography and spacing  
+
+- **Experiences / Lifestyle / Wellness Section**
+  - Three full-height image columns  
+  - Text overlay with arrow button  
+  - Hover zoom effect  
+  - Dark overlay for readability  
+
+---
+
+## 🧠 JavaScript Concepts Used
+
+- Arrays for storing data  
+- DOM manipulation  
+- Event listeners  
+- Dynamic UI rendering  
+
+---
+
+## 🎨 CSS Concepts Used
+
+- `@keyframes` animations  
+- `transform` (translate, scale, rotate)  
+- `transition` for smooth effects  
+- `object-fit: cover`  
+- Media queries  
+- Overlay effects using pseudo-elements  
+
+---
 
 
 
-Studies about **Media Queries and Box Shadows** 
-- Learned to make the Website responsive 
-- Learned to Make UI more attractive with the use of box shadows.
+## ✅ Outcome
+
+- Built a **real-world inspired premium UI**
+- Improved understanding of advanced CSS layouts  
+- Learned smooth animations without libraries  
+- Gained confidence in combining HTML, CSS & JS  
+- Enhanced frontend development skills  
+
+---
